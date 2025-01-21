@@ -11,5 +11,9 @@
     <PackageTags>bitap;fuzzy;search;fuzzy-search;levenshtein</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RootNamespace>Screval.Nabitap</RootNamespace>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="/"/>
+   </ItemGroup>
 </Project>
