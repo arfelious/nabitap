@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Nabitap</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Arfelious</Authors>
+    <Description>Bitap Algorithm Implementation in C# with Support for Insertions, Deletions, and Substitutions.</Description>
+    <PackageTags>bitap;fuzzy;search;fuzzy-search;levenshtein</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RootNamespace>Screval.Nabitap</RootNamespace>
+  </PropertyGroup>
+</Project>
